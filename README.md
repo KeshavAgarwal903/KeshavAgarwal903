@@ -10,8 +10,6 @@
 
 📝 I create tweet about my latest updates at twitter - https://twitter.com/keshav_903
 
-📝 I create videos on my Vlogging YouTube Channel https://www.youtube.com/c/ShrutiPanjwani about freelance developer life and traveling
-
 💬 Ask me about HTML/CSS, JavaScript, MySql, MERN
 
 📫 How to reach me keshavagarwal903@gmail.com
