@@ -16,7 +16,7 @@
 
 🔗   Connect with me - https://www.linkedin.com/in/keshav-agarwal-b48072237
 
-📄 Know about my experiences 
+📄 Feel free to text me - https://znap.link/keshavagarwal
 
 ⚡ I love creating interactive frontend experiences!
 
