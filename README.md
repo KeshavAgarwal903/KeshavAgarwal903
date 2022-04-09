@@ -1,5 +1,5 @@
-                                                                   Hi 👋, I'm Keshav Agarwal
-                                                   16 y/o | Freelance Full Stack Developer | MERN Developer 💻
+                                                                Hi 👋, I'm Keshav Agarwal
+                                                16 y/o | Freelance Full Stack Developer | MERN Developer 💻
 
 
 
@@ -13,6 +13,8 @@
 💬 Ask me about HTML/CSS, JavaScript, MySql, MERN
 
 📫 How to reach me keshavagarwal903@gmail.com
+
+🔗   Connect with me - https://www.linkedin.com/in/keshav-agarwal-b48072237
 
 📄 Know about my experiences 
 
