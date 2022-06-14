@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshav Agarwal</h1>
-<h3 align="center">A passiFrontend developer | MERN Stack Developer | Freelancer | Always Learning | Love = Computer 💻 </h3>
+<h3 align="center">A passionated Frontend developer | MERN Stack Developer | Freelancer | Always Learning | Love = Computer 💻 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
